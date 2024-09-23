@@ -1,0 +1,14 @@
+#include<stdio.h>
+void main()
+{
+   char red[8];
+   char yellow[20];
+   char green[20];
+   
+   printf("red(r): ");
+   scanf("%s",red);
+   printf("yellow(y): ");
+   scanf("%s",yellow);
+   printf("green(g): ");
+   scanf("%s",green);
+}
